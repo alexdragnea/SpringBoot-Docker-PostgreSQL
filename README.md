@@ -17,3 +17,5 @@ COPY ${JAR_FILE} Docker-Demo-0.0.1-SNAPSHOT.jar
 # java -jar /opt/app/app.jar
 ENTRYPOINT ["java","-jar","Docker-Demo-0.0.1-SNAPSHOT.jar"
 ```
+
+First, we need to package the application, run -> ```mvn clean install``` and after that ```mvn package```.
