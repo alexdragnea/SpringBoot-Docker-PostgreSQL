@@ -1,8 +1,8 @@
-package net.dg.jenkinsdemo.controller;
+package net.dg.docker.controller;
 
 import lombok.AllArgsConstructor;
-import net.dg.jenkinsdemo.model.ThemeParkRide;
-import net.dg.jenkinsdemo.repository.ThemeParkRideRepository;
+import net.dg.docker.model.ThemeParkRide;
+import net.dg.docker.repository.ThemeParkRideRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;

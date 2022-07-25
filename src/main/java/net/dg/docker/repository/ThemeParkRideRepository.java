@@ -1,6 +1,6 @@
-package net.dg.jenkinsdemo.repository;
+package net.dg.docker.repository;
 
-import net.dg.jenkinsdemo.model.ThemeParkRide;
+import net.dg.docker.model.ThemeParkRide;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

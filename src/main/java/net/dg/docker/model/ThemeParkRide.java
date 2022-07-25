@@ -1,4 +1,4 @@
-package net.dg.jenkinsdemo.model;
+package net.dg.docker.model;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

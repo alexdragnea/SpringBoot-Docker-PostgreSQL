@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>net.dg</groupId>
-    <artifactId>Jenkins-demo</artifactId>
+    <artifactId>Docker-Demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Jenkins-demo</name>
-    <description>Jenkins-demo</description>
+    <name>SpringBoot Docker Demo App</name>
+    <description>SpringBoot Docker Demo App</description>
     <properties>
         <java.version>11</java.version>
     </properties>

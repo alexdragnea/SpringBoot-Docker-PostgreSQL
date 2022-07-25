@@ -1,4 +1,4 @@
-package net.dg.jenkinsdemo.integration;
+package net.dg.docker.integration;
 
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 import org.junit.jupiter.api.Test;
