@@ -35,5 +35,12 @@ In order to run the application, make sure you have one instance of PostgreSQL r
 ```docker stop container_id ```- stop docker based on container id.
 
 
+## Postman Collection
+
+Postman collection can be found [here](https://github.com/alexdragnea/SpringBoot-Docker-PostgreSQL/blob/master/postman-collection/SpringBoot-PostgreSQL-Docker.postman_collection.json).
+
+
+
+
 
 
