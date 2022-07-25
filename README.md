@@ -27,8 +27,11 @@ In order to run the application, make sure you have one instance of PostgreSQL r
 ## Building and running Docker image
 
 ```docker build --tag=spring-boot:1.0 .``` - it will build spring-boot image with tag version 1.0.
+
 ```docker run -d -p 8081:8081 -t spring-boot:1.0``` - it will run the previous image and expose the application on 8081 port.
+
 ```sudo docker ps``` - list all containers.
+
 ```docker stop container_id ```- stop docker based on container id.
 
 
